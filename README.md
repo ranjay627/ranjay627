@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Ranjay 👋
 
-<!--
-**ranjay627/ranjay627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AWS DevOps Engineer | Kubernetes | Terraform | GitOps | CI/CD
 
-Here are some ideas to get you started:
+I am an AWS DevOps Engineer passionate about building secure, scalable, highly available, and fully automated cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise includes designing and managing cloud-native environments, implementing Infrastructure as Code, building CI/CD pipelines, deploying containerized applications, adopting GitOps workflows, improving observability, and integrating security throughout the software delivery lifecycle.
+
+### 🔧 Core Technologies
+
+* AWS
+* Terraform
+* Kubernetes
+* Docker
+* Amazon EKS
+* Jenkins
+* GitHub Actions
+* GitLab CI/CD
+* AWS CodePipeline
+* Argo CD
+* Flux
+* Helm
+* Ansible
+* Prometheus
+* Grafana
+* ELK Stack
+* Loki
+* Istio
+* SonarQube
+* Trivy
+* Linux
+
+### 🚀 Areas of Expertise
+
+* Cloud Infrastructure
+* Infrastructure as Code (IaC)
+* CI/CD Automation
+* Kubernetes Administration
+* GitOps
+* Observability
+* DevSecOps
+* High Availability
+* Performance Optimization
+* Cloud Security
+* Infrastructure Automation
+
+### 📚 Currently Focusing On
+
+* Advanced Kubernetes
+* Cloud-Native Architectures
+* GitOps at Scale
+* Observability Best Practices
+* Infrastructure Security
+
+### 🤝 Let's Connect
+
+* GitHub: github.com/ranjay627
+
+Building reliable infrastructure through automation.
